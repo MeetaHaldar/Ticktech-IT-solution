@@ -5,7 +5,7 @@ clone the repo run the following commands in the root directory of the project:
 
 ```
 npm install
-npm start
+npm run dev
 ```
 
 ## Setup the Environment Variables
